@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"andonapi","appId":"1:799219235350:android:93f1cc32d3b42e1ec25337","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"andonapi","configurations":{"android":"1:799219235350:android:93f1cc32d3b42e1ec25337","web":"1:799219235350:web:4c972376c3ba0719c25337"}}}}}}

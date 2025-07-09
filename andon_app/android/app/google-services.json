@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "799219235350",
+    "firebase_url": "https://andonapi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "andonapi",
+    "storage_bucket": "andonapi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799219235350:android:93f1cc32d3b42e1ec25337",
+        "android_client_info": {
+          "package_name": "com.example.andon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6PClA5wiBHEhygrJlacfpQq38Nqrvgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
